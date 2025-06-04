@@ -2,6 +2,7 @@
 
 roadmap.sh 에서 추천한 node.js 관련 기초 프로젝트.
 CLI(Command Line Interface) 환경에서 실행하여, 할 일 목록을 create, update, delete, check하는 간단한 프로그램임.
+
 이 프로젝트는 [roadmap.sh](https://roadmap.sh/projects/task-tracker)의 가이드를 참고하여 개발되었음을 밝힘.
 
 ## 주요 기능
