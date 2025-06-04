@@ -44,3 +44,9 @@ CLI(Command Line Interface) 환경에서 실행하여, 할 일 목록을 create,
    - `help`: 사용 가능한 명령어 표시시
    - `help <command>`: 특정 `<command>`의 상세 도움말 표시
    - `exit`: 어플리케이션 종료
+
+## 추후 개발 예정
+
+- 셸 스크립트 처럼 셸 명령행에서 입력받는 기능
+- 클론하여 설치하는 것이 아닌 `<npm install>` 등으로 설치되는 기능
+- 실행 시 `<tasks.json>` 파일이 자동으로 생성되는 기능
