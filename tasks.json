@@ -1,0 +1,25 @@
+{
+    "next-id": 6,
+    "tasks": {
+        "1": {
+            "content": "study node.js",
+            "check": false
+        },
+        "2": {
+            "content": "study back-end",
+            "check": false
+        },
+        "3": {
+            "content": "study react",
+            "check": true
+        },
+        "4": {
+            "content": "study postgreSQL",
+            "check": false
+        },
+        "5": {
+            "content": "study RESTful API",
+            "check": false
+        }
+    }
+}
